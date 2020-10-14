@@ -101,36 +101,11 @@ body{
   display: flex;
   flex-direction: column;
 }
-/*
-.top-section{
-  height:auto;
-  position: absolute;
-  top:50%;
-  left:6%;
-  display: flex;
-  justify-content: space-around;
-}*/
 
 .top-section input{
   margin: 0.1875rem 0.3125rem;
   justify-content: space-around;
 }
-/*
-.more-section{
-  height: auto;
-  position: absolute;
-  top:40%;
-  left:6%;
-  display: flex;
-  justify-content: space-around;
-  padding: 0.25rem 0.38rem;
-  border-radius: 1.875rem;
-  justify-content: space-between;
-  margin-left: 0.625rem;
-  background: linear-gradient(145deg, #d6d6d6, #f0f0f0);
-  box-shadow: -2px -2px 3px 0 #ffffff,
-    3px 3px 4px 0 #cacfd2;
-}*/
 
 .more-section input{
   margin: 0.1875rem 0.3125rem;
